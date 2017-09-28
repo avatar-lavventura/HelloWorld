@@ -1,4 +1,7 @@
-# HelloWorld Assignment Due Date: 4.10.2017 00:00
+## HelloWorld Assignment 
+# Due Date: 4.10.2017 00:00
+
+-----------
 
 You can just drag files into the github page after you commit README.md file.
 https://help.github.com/articles/adding-a-file-to-a-repository/
