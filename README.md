@@ -3,10 +3,10 @@
 
 -----------
 
-You can just drag files into the github page after you commit README.md file.
+You could just drag files into the github page.
 https://help.github.com/articles/adding-a-file-to-a-repository/
 
-If you like to commit through console:
+If you like to commit through console please do:
 
 ```
 mkdir homework && cd homework
