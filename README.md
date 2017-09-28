@@ -3,8 +3,8 @@
 
 -----------
 
-You could just drag files into the github page.
-https://help.github.com/articles/adding-a-file-to-a-repository/
+You could just drag files into the github page:
+Guide: https://help.github.com/articles/adding-a-file-to-a-repository/
 
 If you like to commit through console please do:
 
